@@ -1,8 +1,13 @@
+<h1 align="center">
+   Hey there <img width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" > 
+  
+  
+
 - 👋 Hi, I’m @JochenVanSeveren
-- 👀 I’m interested in soup
-- 🌱 I’m currently learning soup
-- 💞️ I’m looking to collaborate on soup
-- 📫 How to reach me soupstore
+- 🌱 I’m currently working on a portfolio (private repo still) and some other minor projects.
+- ![BooksReadGIF](https://user-images.githubusercontent.com/91890046/151715953-490df584-e1cb-4a90-8025-20c49c9120c7.gif)
+
+  
 
 ### 🔎 Github Profile Details
 <img height="180em" width="450em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JochenVanSeveren&show_icons=true&layout=compact&hide_border=true&theme=github_dark"/>
