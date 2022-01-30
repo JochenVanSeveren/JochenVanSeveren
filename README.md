@@ -2,7 +2,7 @@
    Hey there <img width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" >
 </h1>
 
-<img align="right"  width="200em" src="https://tenor.com/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910.gif"/>
+<img align="right"  width="200em" src="https://i.gifer.com/y7.gif"/>
 
 👋 Hi, I’m @JochenVanSeveren <br/>
 🌱 I’m currently working on a portfolio (private repo still) and some other minor projects. <br/>
