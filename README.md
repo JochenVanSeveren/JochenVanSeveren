@@ -2,7 +2,7 @@
    Hey there <img width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" >
 </h1>
 
-<img align="right" src="https://api.ghprofile.me/view?username=JochenVanSeveren&color=2E3440&label=views"/>
+[comment]: <> (<img align="right" src="https://api.ghprofile.me/view?username=JochenVanSeveren&color=2E3440&label=views"/>)
 
 <img align="right"  width="230em" src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif"/>
  <br/><br/><br/>
