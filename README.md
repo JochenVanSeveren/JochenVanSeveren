@@ -20,7 +20,7 @@
 
 ### ⚡ Github Stats
 
-![Jochen Van Severen's GitHub stats](https://github-readme-stats.vercel.app/api?username=JochenVanSeveren&show_icons=true&layout=compact&hide_border=true&theme=github_dark)
+![Jochen Van Severen's GitHub stats](https://github-stats-jochenvanseveren.vercel.app/api?username=JochenVanSeveren&show_icons=true&layout=compact&hide_border=true&theme=github_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JochenVanSeveren&show_icons=true&layout=compact&hide_border=true&theme=github_dark)
 
