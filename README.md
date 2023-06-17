@@ -7,7 +7,7 @@
 <img align="right"  width="230em" src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif"/>
  <br/><br/><br/>
 👋 Hi, I’m @JochenVanSeveren <br/>
-🌱 I’m currently working on a portfolio (private repo still) and some other minor projects. <br/>
+🌱 I’m currently working on https://jochens-next-js-dinner.vercel.app/ to learn next.js and a portfolio site (private repo still)<br/>
 🏫 Studying Toegepaste informatica in Hogent
 
 <br/><br/><br/><br/>
