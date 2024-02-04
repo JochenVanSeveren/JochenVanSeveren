@@ -7,7 +7,7 @@
 <img align="right"  width="200em" src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif"/>
 <br/><br/><br/>
 👋 Hi, I’m @JochenVanSeveren <br/>
-🌱 I’m currently working at a bike startup and moving on to learning how to develop apps!<br/>
+🌱 I’m currently freelancing at a bike startup, interning at we-are and writing a thesis about odoo x modern js frameworks<br/>
 🏫 Studying Toegepaste informatica in Hogent
 
 🌍 Check out my portfolio [here](https://www.jochenvanseveren.com/)
