@@ -10,7 +10,7 @@
 🌱 Check out <a href="https://www.linkedin.com/in/jochen-van-severen/" target="_blank">My LinkedIn</a> to see where I'm working <br/>
 🏫 Studying Toegepaste informatica in Hogent
 
-🌍 Check out my portfolio [here](https://www.jochenvanseveren.com/)
+🌍 Check out my portfolio [[here](https://www.linkedin.com/in/jochen-van-severen-4a100424a/)]
 
 <br/><br/><br/><br/>
 
